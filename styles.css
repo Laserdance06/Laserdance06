@@ -1,0 +1,19 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Verdana, Arial, Helvetica;
+}
+h1 {
+  color:cyan;
+}
+
+#am{
+  text-decoration: underline;
+}
+.titre2{
+  font-style: italic;
+}
+p>strong{
+  color: red;
+  text-shadow: white;
+}
